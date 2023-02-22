@@ -51,6 +51,9 @@ window.addEventListener('DOMContentLoaded', () => {
     navbar.classList.add('navbar-dark');
     navLinks.classList.add('viewLinks-dark');
     aboutContainer.classList.add('container-about-dark');
+    footerContainer.classList.add('footer-container-dark');
+    footerLink.classList.add('footer-link-dark');
+    borderImg.classList.add('border-image-dark');
     toggleIcon();
   }
 });
